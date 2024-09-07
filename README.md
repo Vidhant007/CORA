@@ -59,3 +59,4 @@ To ensure the security of your cloud accounts and avoid **prompt jacking**, CORA
 
 ---
 
+CORA works best with **GPT-4o-mini** and **GPT-4o** models, ensuring optimal performance and accuracy in handling your cloud operations. 🚀

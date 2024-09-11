@@ -14,7 +14,7 @@ CORA is designed to make cloud management a breeze by understanding your request
 
 ### 🖥️ **Resource Management**
 - 🕵️‍♂️ **"How many servers are running in Mumbai?"**
-- 💻 **"Start two new EC2 instances in us-east-1."**
+- 💻 **"List all ECS optimized  AMI's."**
 - 📦 **"List all available S3 buckets."**
 
 ### 📈 **Monitoring & Logs**

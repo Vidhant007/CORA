@@ -1,0 +1,14 @@
+openai
+pyautogen
+spacy
+numpy
+quart
+quart-cors
+boto3
+botocore
+
+requests
+pymupdf
+python-dotenv
+
+# python3 -m spacy download en_core_web_sm
